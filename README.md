@@ -90,8 +90,8 @@ Manual machining, CAD modeling, machine assembly & troubleshooting, production p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CherratY&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherratY&theme=dark&hide_border=true&layout=compact" height="150"/>
+  <img src="https://img.shields.io/github/followers/CherratY?style=for-the-badge&logo=github&label=Followers&color=181717"/>
+  <img src="https://img.shields.io/github/stars/CherratY?style=for-the-badge&logo=github&label=Stars&color=f0c040"/>
 </p>
 
 -----
