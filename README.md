@@ -94,6 +94,12 @@ Manual machining, CAD modeling, machine assembly & troubleshooting, production p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherratY&theme=dark&hide_border=true&layout=compact" height="150"/>
 </p>
 
+
+![](https://github-readme-stats.vercel.app/api?username=CherratY&theme=dark&hide_border=fal se&include_all_commits=false&count_private=false ) <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CherratY&theme=dark&hide_border=false)<b r/>
+![](https://github-readme-stats.vercel.app/api/top-langs/? username=CherratY&theme=dark&hide_border=fal se&include_all_commits=false&count_private=false &layout=compact)
+
+
 -----
 
 <p align="center">
